@@ -1,0 +1,1 @@
+This script sets up a simple UI using Tkinter that displays the pH level and alerts the user if the pH level is not within the ideal range. It reads the pH level from the Arduino connected via serial communication. Adjustments may be needed based on the actual pH range suitable for your tree.
